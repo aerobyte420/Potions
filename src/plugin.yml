@@ -1,0 +1,18 @@
+name: Potions
+version: 1.0
+main: me.aerobyte.potions.Main
+author: aerobyte
+
+commands:
+  sp:
+    aliases: [speed]
+  fr:
+    aliases: [fire]
+  invis:
+    aliases: [invisibility]
+  all:
+    aliases: [alleffects]
+  lol:
+    aliases: [pepsi]
+  nv:
+    aliases: [nightvision]

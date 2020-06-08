@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Potions:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Potions_jar</output-path>
+    <root id="archive" name="Potions.jar">
+      <element id="module-output" name="Potions" />
+    </root>
+  </artifact>
+</component>
